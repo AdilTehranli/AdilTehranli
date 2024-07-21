@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adiltehranli&label=Profile%20views&color=0e75b6&style=flat" alt="adiltehranli" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Software Development**
 
 - 💬 Ask me about **C#,ReactJs**
 
-- 📫 How to reach me **adil.tehranli0@gmail.com**
+- 📫 How to reach me **adilltehranli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
